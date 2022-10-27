@@ -1,0 +1,21 @@
+.navbar-brand {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 32px;
+  margin-left: 32px;
+}
+.navbar-brand span {
+  color: #5f6830;
+}
+.navbar-toggler {
+  margin-right: 32px;
+}
+.offcanvas-title {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.offcanvas-title span {
+  color: #5f6830;
+}
+/*===caroussel====*/
+.carousel-item img {
+  object-fit: cover;
+}
